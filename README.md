@@ -1,0 +1,1 @@
+Meu primeiro projeto de automação mobile com appium.
